@@ -13,5 +13,7 @@ namespace Prueba.NewFolder1
         public string Apellido { get; set; }
 
         public string Cedula { get; set; }
+
+        public int Edad { get; set; }
     }
 }
